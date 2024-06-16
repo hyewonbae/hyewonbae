@@ -1,5 +1,5 @@
 ## Welcome to Hyewon's Github 🙌
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=130&section=header&fontSize=90" />
+<!--<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=130&section=header&fontSize=90" />-->
 <h3 align="center"><b>🛠️Tech Stacks🛠️</b><h3>
 <h5 align="center">Front-end</h5>
 <p align="center">
